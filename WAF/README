@@ -1,0 +1,10 @@
+- Descripción del micro-servicio: 
+Web application Firewall , proteccion de amenazas web 
+
+- Requerimientos funcionales:
+Proteccion contras OWASP tOP 10 , compatiblidadad , sincronizacion , adaptabilidad 
+
+- Requerimientos no funcionales:
+Actualziaciones 
+
+- URL de despliegue: (por lo pronto dejar en blanco).

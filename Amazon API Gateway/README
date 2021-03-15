@@ -1,0 +1,10 @@
+- Descripción del micro-servicio: 
+Dar mantenimient, monitoreo y la proteccion de API . 
+
+- Requerimientos funcionales:
+Amplify , Lambda 
+
+- Requerimientos no funcionales:
+Plataforma accesible 24 hrs , Mantenimiento programado 
+
+- URL de despliegue: (por lo pronto dejar en blanco).

@@ -1,0 +1,10 @@
+- Descripción del micro-servicio: 
+Alarmas y notificaciones de correo SMS mensajeria y movil 
+
+- Requerimientos funcionales:
+Alarmas generales , categorizacion , isntantaneo , continuo 
+
+- Requerimientos no funcionales:
+Actualizaciones configuracion de encabezados 
+
+- URL de despliegue: (por lo pronto dejar en blanco).
