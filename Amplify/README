@@ -8,3 +8,6 @@ Backend , Front End y Bulk
 Actualizaciones compatiblidadad 
 
 - URL de despliegue: (por lo pronto dejar en blanco).
+
+Se uso la consola de AWS Amplify para implementar los recursos estaticos de una aplicacion web , por el momento se tiene solamente un Hello world de prueba.
+
