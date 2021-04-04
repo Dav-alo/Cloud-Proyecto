@@ -13,6 +13,6 @@ Se uso la consola de AWS Amplify para implementar los recursos estaticos de una 
 
 Despliegue de Amplify :
 
-![Alt text](ProyectoFinal-Cloud\Cloud-Proyecto\Amplify\Amplify.png?raw=true "Amplify")
-
 ![Screenshot](Amplify.png)
+
+![Screenshot](Amplify2.png)
