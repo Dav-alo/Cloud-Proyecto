@@ -7,4 +7,8 @@ Funcionamiento continuo , sin parar
 - Requerimientos no funcionales:
 Actualizaciones compatiblidadad
 
-- URL de despliegue: (por lo pronto dejar en blanco).
+- URL de despliegue: arn:aws:lambda:us-east-1:570462879751:function:Test-v1
+
+Validacion de LAMBDA fase 1 : 
+
+![Screenshot](lambda.png)
