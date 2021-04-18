@@ -8,3 +8,7 @@ Configurable , seguro y control total
 Actualizaciones 
 
 - URL de despliegue: (por lo pronto dejar en blanco).
+
+Se creo un ROL para maneajar los datos de la base de Datos en DynamoDB desde la funcion LAMBDA . De esta manera ya se tiene permisos para escribir en la base de datos desde la aplicacion web 
+
+![Screenshot](IAMJSON.png)
