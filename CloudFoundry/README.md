@@ -12,3 +12,5 @@ Compatibilidad
 
 - URL de despliegue: https://proyectocloud.mybluemix.net/
 
+
+![Screenshot](cloudfoundry.png)
