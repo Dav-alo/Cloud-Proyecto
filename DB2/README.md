@@ -10,7 +10,7 @@ Actualizaciones compatiblidadad
 - URL de despliegue: https://proyectocloud.mybluemix.net/
 
 
-![Screenshot](db2.png)
+![Screenshot](db2.PNG)
 
 
 Configuracion de la DB gester : 
