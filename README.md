@@ -1,6 +1,6 @@
 # Cloud-Proyecto
 
-Tentativa de Proyecto Cloud v1.3 <span style="color:blue">some *blue* text</span>
+Tentativa de Proyecto Cloud v1.3
 
 ## David Ramirez Carmona 
 ## Sofia del Muro Reyes 
