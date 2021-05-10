@@ -16,7 +16,7 @@ Validacion de LAMBDA fase 1 :
 Se agregaron los permisos para modificar tabla de datos con codigo propio de AWS para realizar la conexion desde lambda pero con permisos IAM 
 
 Codigo en Json :
-
+```json
 {
 "Version": "2012-10-17",
 "Statement": [
@@ -35,11 +35,12 @@ Codigo en Json :
     }
     ]
 }
+```
 
 A la funcion Lambda se le agrego codigo en js para escribir en la tabla DynamoDB : 
 
 Codigo : 
-
+```js
 // Include the AWS SDK module
 const AWS = require('aws-sdk');
 // Instantiate a DynamoDB document client with the SDK
@@ -71,7 +72,7 @@ exports.handler = async (event) => {
     // Return the response constant
     return response;
 };
-
+```
 
 Capturas : 
 
