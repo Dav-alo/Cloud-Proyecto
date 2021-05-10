@@ -12,3 +12,8 @@ Actualizaciones , orden de datos
 Se creo una base de datos con Nombre: DatabaseTestProject , se agregaron los permisos necesarios para modificar desde lambda . 
 
 ![Screenshot](DynamoBD.png)
+
+
+# Tabla Final de DB 
+
+![Screenshot](dynamoDBfinal.png)

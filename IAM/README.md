@@ -12,3 +12,8 @@ Actualizaciones
 Se creo un ROL para maneajar los datos de la base de Datos en DynamoDB desde la funcion LAMBDA . De esta manera ya se tiene permisos para escribir en la base de datos desde la aplicacion web 
 
 ![Screenshot](IAMJSON.png)
+
+
+Se creo una politica especial llamada readDB y se le asigno a un rol READB
+
+![Screenshot](IAM.jpeg)
