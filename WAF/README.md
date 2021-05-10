@@ -7,4 +7,7 @@ Proteccion contras OWASP tOP 10 , compatiblidadad , sincronizacion , adaptabilid
 - Requerimientos no funcionales:
 Actualziaciones 
 
-- URL de despliegue: (por lo pronto dejar en blanco).
+La configuracion de WAF se complico debido a que no tenemos acceso al dominio pero las configuraciones y el servicio esta activo . 
+
+
+![Screenshot](WAF.jpeg)
