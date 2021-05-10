@@ -15,6 +15,7 @@ Actualizaciones compatiblidadad
 
 Configuracion de la DB gester : 
 
+```js
 {
   "db": "BLUDB",
   "dsn": "DATABASE=BLUDB;HOSTNAME=dashdb-txn-sbox-yp-dal09-08.services.dal.bluemix.net;PORT=50000;PROTOCOL=TCPIP;UID=scf74103;PWD=hjzdgq6vbz0np^01;",
@@ -30,3 +31,4 @@ Configuracion de la DB gester :
   "uri": "db2://scf74103:hjzdgq6vbz0np%5E01@dashdb-txn-sbox-yp-dal09-08.services.dal.bluemix.net:50000/BLUDB",
   "username": "scf74103"
 }
+```
