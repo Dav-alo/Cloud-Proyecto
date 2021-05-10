@@ -6,4 +6,4 @@ Tentativa de Proyecto Cloud v1.3
 
 ---
 
-![Screenshot](demo.jpg)
+![Screenshot](demo.PNG)
