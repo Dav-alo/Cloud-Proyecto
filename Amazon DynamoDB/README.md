@@ -16,4 +16,4 @@ Se creo una base de datos con Nombre: DatabaseTestProject , se agregaron los per
 
 # Tabla Final de DB 
 
-![Screenshot](dynamoDBfinal.png)
+![Screenshot](dynamoDBfinal.jpeg)
